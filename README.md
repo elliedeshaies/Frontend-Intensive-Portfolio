@@ -1,3 +1,3 @@
-# My Portfolio
+# Portfolio Template
 
-A showcase of my work from the program.
+An example portfolio template built as part of Bloc's UX design course. 
